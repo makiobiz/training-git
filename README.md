@@ -1,3 +1,3 @@
 # training-git
 
-## コミットメッセージ
+## gitconfigを操作してみる
